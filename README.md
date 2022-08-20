@@ -1,5 +1,5 @@
 # resumewebsite
-#Static site for you resume , create with vuetify 
+#Static site for  resume , create with vuetify 
 ------------------------------------------------------
 ## Project setup
 ```
