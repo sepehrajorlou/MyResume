@@ -1,5 +1,6 @@
 # resumewebsite
-
+#Static site for you resume , create with vuetify 
+------------------------------------------------------
 ## Project setup
 ```
 npm install
